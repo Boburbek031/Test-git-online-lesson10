@@ -1,2 +1,2 @@
 Second Data
-I changed B file as well.
+I changed B file as well. GitHub serverd tomondan o'zgartirish kiritildi.
